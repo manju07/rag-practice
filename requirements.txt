@@ -4,3 +4,6 @@ langchain-core
 jupyter
 pypdf
 pymupdf
+sentence-transformers  # embedding model
+faiss-cpu # for vector DB
+chromadb # for vector DB
